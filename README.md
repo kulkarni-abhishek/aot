@@ -1,4 +1,4 @@
-# aot
+# Ahead of time
 
 Make sure Java 17 and docker is installed on the system.
 
